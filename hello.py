@@ -7,4 +7,8 @@ print("Hi, Git!")
 
 
 print("Hello, GitHub")
+
+print("Bye bye Git see u next time")
+
+
 print("==============")
